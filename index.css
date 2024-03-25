@@ -83,21 +83,21 @@
 @media screen and (min-width: 500px) {
     .calculator {
         width: 20rem;
-        height: 100%;
+        
     }
 }
 
 @media screen and (min-width: 250px) and (max-width: 499px) {
     .calculator {
         width: 15rem;
-        height: 80%;
+        
     }
 }
 
 @media screen and (min-width: 125px) and (max-width: 249px) {
     .calculator {
         width: 10rem;
-        height: 60%;
+       
     }
 }
 
